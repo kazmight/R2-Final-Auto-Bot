@@ -1,0 +1,25 @@
+{
+  "name": "r2-auto-bot",
+  "version": "1.0.0",
+  "description": "Bot otomatis untuk interaksi DeFi di Sepolia Testnet (swap dan manajemen likuiditas R2, USDC, R2USD, sR2USD).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "defi",
+    "blockchain",
+    "sepolia",
+    "ethers.js",
+    "automation",
+    "liquidity"
+  ],
+  "author": "Kazmight",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1",
+    "inquirer": "^9.2.23"
+  }
+}
