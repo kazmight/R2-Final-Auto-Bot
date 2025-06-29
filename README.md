@@ -18,6 +18,7 @@ Ikuti langkah-langkah di bawah ini untuk menyiapkan dan menjalankan R2 Auto-Bot 
 Jika ini adalah proyek Git, kloning repositori ke komputer lokal Anda:
 ```Bash
 git clone https://github.com/kazmight/R2-Auto-Bot.git
+```
 ```Bash
 cd R2-Auto-Bot
 ```
