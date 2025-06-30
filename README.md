@@ -1,6 +1,8 @@
 ## 🤖 R2 Money Final Auto Transaksi Bot
 R2 Auto-Bot DeFi adalah sebuah bot otomatis berbasis Node.js yang dirancang untuk berinteraksi dengan berbagai protokol Decentralized Finance (DeFi) di jaringan Sepolia Testnet. Bot ini memungkinkan Anda untuk melakukan swap token, serta menambah dan menghapus likuiditas pada berbagai pasangan token.
 
+## Join Channel: https://t.me/dasarpemulung
+
 ## ✨ Fitur
 Swap Token: Tukar token R2 dengan USDC atau sebaliknya. 
 Manajemen Likuiditas:
